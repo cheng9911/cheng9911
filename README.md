@@ -7,7 +7,7 @@
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_45494729?spm=1000.2115.3001.5343)
 
 
-![](https://github-readme-stats.vercel.app/api?username=cheng911&show_icons=true&theme=transparent)
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set

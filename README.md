@@ -10,7 +10,7 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-### My Skill Set
+### My Skill Set  C++/Python
 
 
 

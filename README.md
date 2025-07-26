@@ -4,7 +4,7 @@ I’m a robotics researcher and developer focused on **intelligent manipulation*
 I build systems that combine **real-time control** with **learning-based decision-making** to make robots more adaptive and capable.
 
 🔗 **Check out my personal website:**  
-👉 [https://cheng9911.github.io/MyDevFolio](https://cheng9911.github.io/MyDevFolio)
+🔗 [🌐 My Website](https://cheng9911.github.io/MyDevFolio)
 
 ---
 
@@ -38,10 +38,8 @@ I build systems that combine **real-time control** with **learning-based decisio
 ### 📫 Connect with Me
 
 - **GitHub:** [cheng9911](https://github.com/cheng9911)  
-- **Website:** [cheng9911.github.io/MyDevFolio](https://cheng9911.github.io/MyDevFolio)
+- **Website:**  [🌐 My Website](https://cheng9911.github.io/MyDevFolio)
 
 ---
 
-### 🎉 Visitor Count
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor, Thank You! 😘😘

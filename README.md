@@ -1,37 +1,47 @@
-👋 Hi, I'm Cheng!
-I’m a robotics researcher and developer focused on intelligent manipulation, skill learning, and human-robot interaction. I build systems that combine real-time control with learning-based decision-making to make robots more adaptive and capable.
+## 👋 Hi, I'm Cheng!
 
-🔗 Check out my personal website:
-🌐 cheng9911.github.io/MyDevFolio
+I’m a robotics researcher and developer focused on **intelligent manipulation**, **skill learning**, and **human-robot interaction**.  
+I build systems that combine **real-time control** with **learning-based decision-making** to make robots more adaptive and capable.
 
-🧠 Research & Development Interests
-🤖 Robot Skill Learning
-Designing and learning reusable robotic skills from demonstration, teleoperation, and reinforcement learning. Building scalable skill libraries and high-level planners for complex tasks.
+🔗 **Check out my personal website:**  
+👉 [https://cheng9911.github.io/MyDevFolio](https://cheng9911.github.io/MyDevFolio)
 
-🧭 Motion Planning & Control
-Developing Cartesian and joint-space planning frameworks, integrating with real-time controllers (e.g., Ruckig, libfranka).
+---
 
-🖼️ Perception + Language
-Using vision-language models (VLMs) for grounding, task recognition, and semantic skill selection.
+### 🧠 Research & Development Interests
 
-🧩 Multi-Robot Systems
-Exploring coordinated control and shared autonomy across multi-arm or mobile robot platforms.
+#### 🤖 Robot Skill Learning
+- Designing and learning reusable robotic skills from **demonstration**, **teleoperation**, and **reinforcement learning**  
+- Building scalable **skill libraries** and **high-level planners** for complex tasks
 
-⚙️ Tools & Frameworks
-Languages: Python, C++
+#### 🧭 Motion Planning & Control
+- Developing **Cartesian** and **joint-space** planning frameworks  
+- Integrating with real-time controllers 
 
-Frameworks: ROS 2/Mujoco/Vrep, Rocos-app, Ruckig, PyTorch, OpenCV
+#### 🖼️ Perception + Language
+- Using **vision-language models (VLMs)** for grounding, task recognition, and semantic skill selection
 
-VLMs & Learning: BLIP-2, ACT, Diffusion Policy, Transformers
+#### 🧩 Multi-Robot Systems
+- Coordinated control and shared autonomy across **multi-arm** or **mobile robot** platforms
 
-Platforms: Franka Panda, Jetson, Realsense, Ubuntu Linux
+---
 
-📫 Connect with Me
-GitHub: cheng9911
+### ⚙️ Tools & Frameworks
 
-Website: cheng9911.github.io/MyDevFolio
+- **Languages:** Python, C++
+- **Frameworks:** ROS 2, MuJoCo, V-REP, Rocos-app, Ruckig, PyTorch, OpenCV
+- **VLMs & Learning:**  ACT, Diffusion Policy, 3D Diffusion Policy,Transformers
+- **Platforms:** Franka Panda, Jetson, Realsense, Ubuntu Linux
 
+---
 
+### 📫 Connect with Me
 
-🎉 Visitor Count
-You are myvisitor, Thank You! 😘😘
+- **GitHub:** [cheng9911](https://github.com/cheng9911)  
+- **Website:** [cheng9911.github.io/MyDevFolio](https://cheng9911.github.io/MyDevFolio)
+
+---
+
+### 🎉 Visitor Count
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor, Thank You! 😘😘

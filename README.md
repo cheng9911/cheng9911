@@ -41,10 +41,13 @@ I build systems that combine **real-time control** with **learning-based decisio
 - **Website:**  [🌐Cheng Website](https://cheng9911.github.io/MyDevFolio)
 
 ---
-![Cheng's GitHub stats](https://github-readme-stats-dwtg.vercel.app/api?username=cheng9911&count_private=true&show_icons=true&theme=radical)
 
-https://github-readme-stats-dwtg.vercel.app/
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-sjc.vercel.app/api?username=cheng9911&count_private=true&show_icons=true&theme=transparent&include_all_commits=true" alt="Cheng's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats-sjc.vercel.app/api/top-langs/?username=cheng9911&layout=compact&theme=transparent" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 
 

@@ -4,7 +4,7 @@ I’m a robotics researcher and developer focused on **intelligent manipulation*
 I build systems that combine **real-time control** with **learning-based decision-making** to make robots more adaptive and capable.
 
 🔗 **Check out my personal website:**  
-🔗 [🌐 Cheng Website](https://cheng9911.github.io/MyDevFolio)
+ [🌐 Cheng Website](https://cheng9911.github.io/MyDevFolio)
 
 ---
 
